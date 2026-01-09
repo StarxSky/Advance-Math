@@ -7,10 +7,13 @@
 ## **How to contribute this ??? 很香？也想尝试贡献一份力量？直接fork 修改后pr到分支即可，后期我会来核查Merge)**
 *通向成功的路往往不是一帆风顺的，要想走的远一群志同道合的朋友是必不可少的.*
 # Content  （内容问题请提issues）
+## 上册
 * [齐次方程](https://github.com/StarxSky/Advance-Math/blob/main/(3节)-齐次方程.md) 
 * [一阶线性微分方程](https://github.com/StarxSky/Advance-Math/blob/main/(4节)-一阶线性微分方程.md)
 * [可降阶的高阶微分方程](https://github.com/StarxSky/Advance-Math/blob/main/(5节)-可降阶的高阶微分方程.md)
 * [高阶线性微分方程](https://github.com/StarxSky/Advance-Math/blob/main/(6节)-高阶线性微分方程.md)
+
+## 下册
 * [隐函数存在定理的证明](https://github.com/StarxSky/Advance-Math/blob/main/(副)-隐函数存在定理的证明.md)
 * [二元函数极值充分条件的推导](https://github.com/StarxSky/Advance-Math/blob/main/（下册）二元函数极值充分条件的推导.md)
 * [含参变量的积分](https://github.com/StarxSky/Advance-Math/blob/main/（下册）含参变量的积分.md)
