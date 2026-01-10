@@ -6,6 +6,7 @@
 > ⚠️注意: 如果网页Markdown显示不了公式，可以使用vscode打开 （
 ## **How to contribute this ??? 很香？也想尝试贡献一份力量？直接fork 修改后pr到分支即可，后期我会来核查Merge)**
 *通向成功的路往往不是一帆风顺的，要想走的远一群志同道合的朋友是必不可少的.*
+* Email: 202404105026@zbpu.edu.cn
 # Content  （内容问题请提issues）
 ## 上册
 * [齐次方程](https://github.com/StarxSky/Advance-Math/blob/main/(3节)-齐次方程.md) 
