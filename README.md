@@ -3,7 +3,7 @@
 用于本人平时的考前复习所用，也适用于考研党快速预览（
 希望对各位高数党起到作用 (
 > 更新的内容取决于本人进度（可能为了懒）
-> ⚠️注意: 如果网页Markdown显示不了公式，可以使用vscode打开 （
+> ⚠️注意: 如果网页Markdown显示不了公式，可以使用vscode打开 [在线VScode Preview](https://github.dev/StarxSky/Advance-Math)（
 ## **How to contribute this ??? 很香？也想尝试贡献一份力量？直接fork 修改后pr到分支即可，后期我会来核查Merge)**
 *通向成功的路往往不是一帆风顺的，要想走的远一群志同道合的朋友是必不可少的.*
 * Email: 202404105026@zbpu.edu.cn
