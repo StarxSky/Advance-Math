@@ -22,4 +22,6 @@
 * [曲面的切平面与法线](https://github.com/StarxSky/Advance-Math/blob/main/（下册）曲面的切平面与法线.md)
 * [空间曲线的切线与法平面](https://github.com/StarxSky/Advance-Math/blob/main/（下册）空间曲线的切线与法平面.md)
 * [对弧长的曲线积分](https://github.com/StarxSky/Advance-Math/blob/main/（下册）对弧长的曲线积分.md)
+* [对坐标的曲线积分](https://github.com/StarxSky/Advance-Math/blob/main/(下册)对坐标的曲线积分.md)
+* 
   
