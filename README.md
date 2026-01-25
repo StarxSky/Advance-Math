@@ -21,8 +21,8 @@
 * [多元函数的极值与其条件](https://github.com/StarxSky/Advance-Math/blob/main/（下册）多元函数的极值与其条件.md)
 * [曲面的切平面与法线](https://github.com/StarxSky/Advance-Math/blob/main/（下册）曲面的切平面与法线.md)
 * [空间曲线的切线与法平面](https://github.com/StarxSky/Advance-Math/blob/main/（下册）空间曲线的切线与法平面.md)
+* [隐函数求导公式](https://github.com/StarxSky/Advance-Math/blob/main/（下册）隐函数求导公式.md)
 * [对弧长的曲线积分](https://github.com/StarxSky/Advance-Math/blob/main/（下册）对弧长的曲线积分.md)
 * [对坐标的曲线积分](https://github.com/StarxSky/Advance-Math/blob/main/(下册)对坐标的曲线积分.md)
-* [隐函数求导公式](https://github.com/StarxSky/Advance-Math/blob/main/（下册）隐函数求导公式.md)
 * [Green Formula 的应用](https://github.com/StarxSky/Advance-Math/blob/main/（下册）格林公式及其应用.md)
   
