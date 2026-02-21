@@ -31,8 +31,8 @@
 * [高斯公式](https://github.com/StarxSky/Advance-Math/blob/main/（下册）C高斯公式_通量_散度.md)
 
 * [通量与散度](https://github.com/StarxSky/Advance-Math/blob/main/（下册）C高斯公式_通量_散度.md)
-* [斯托克斯公式]()
-* [环流量与旋度🌟]()
+* [斯托克斯公式](https://github.com/StarxSky/Advance-Math/blob/main/（下册）C斯托克斯公式_环流量_旋度.md)
+* [环流量与旋度🌟](https://github.com/StarxSky/Advance-Math/blob/main/（下册）C斯托克斯公式_环流量_旋度.md)
 
   
 ## 无穷级数
